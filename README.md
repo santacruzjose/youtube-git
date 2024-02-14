@@ -2,8 +2,8 @@
 
 hola soy tu amigo y docente digital Jonathan Mircha, bienvenidos a mi curso.
 
-Agregando mas contenido al _README.md_
+quieres dominar el uso de _git_? 
 
-agregando yo mismo prueba
+mire este [enlance]().
 
-Este commit es para oficializar nuestra version **1.0.0**.
+![flujo de Git](image.png)
